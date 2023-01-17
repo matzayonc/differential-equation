@@ -23,7 +23,7 @@ $-\int_0^3u'v'dx = 4\pi G(\int_0^10vdx + \int_1^2 10^{11} vdx + \int_2^30vdx)$
 $-\int_0^3u'v'dx = 4*10^{11}*\pi G \int_1^2 vdx$
 
 $B(u, v) = -\int_0^3u'v'dx$  
-$L(v) = $-\int_0^3u'v'dx = 4*10^{11}*\pi G \int_1^2 vdx$
+$L(v) = 4*10^{11}*\pi G \int_1^2 vdx$
 
 ## Definicja przestrzeni
 
@@ -38,7 +38,7 @@ $B(w,v)=\stackrel{\sim}{L}(v)$
 ## Forma dla $N=3$
 
 $\begin{bmatrix}
-B(e_1, e_1) & u_2B(e_2, e_1)\\
+B(e_1, e_1) & B(e_2, e_1)\\
 B(e_1, e_2) & B(e_2, e_2)
 \end{bmatrix}
 \begin{bmatrix}
